@@ -10,7 +10,7 @@ link - Link to the users stream
 
   Discord: *Neoptunium#1111*
 
-  Email: *hypnoticnoah@gmail.com*
+  Email: *neoptunium@gmail.com*
 
 # Dependencies 
 discord.js 
